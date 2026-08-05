@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 7 |
+| 6 | 7 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 - [strings](#strings) (1)
 
 ---
@@ -45,6 +45,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/231/A%20-%20Team/solution.java) |
 
 ### implementation
@@ -58,6 +59,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 
 ### strings
 
