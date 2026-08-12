@@ -1,28 +1,28 @@
 import java.util.*;
-import java.io.*;
-import java.util.StringTokenizer;
  
 public class Main {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(br.readLine().trim());
-        
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        int[] a = new int[n];
-        for (int i = 0; i < n; i++) {
-            a[i] = Integer.parseInt(st.nextToken());
-        }
-        
-        int maxLen = 1, curLen = 1;
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+ 
+        int n = sc.nextInt();
+        int prev = sc.nextInt();
+ 
+        int current = 1;
+        int max = 1;
+ 
         for (int i = 1; i < n; i++) {
-            if (a[i] >= a[i - 1]) {
-                curLen++;
+            int x = sc.nextInt();
+ 
+            if (x >= prev) {
+                current++;
             } else {
-                curLen = 1;
+                current = 1;
             }
-            maxLen = Math.max(maxLen, curLen);
+ 
+            max = Math.max(max, current);
+            prev = x;
         }
-        
-        System.out.println(maxLen);
+ 
+        System.out.println(max);
     }
 }
