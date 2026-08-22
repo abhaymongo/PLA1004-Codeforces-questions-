@@ -5,7 +5,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
  
         String s = sc.nextLine();
- 
         char[] arr = s.replace("+", "").toCharArray();
  
         Arrays.sort(arr);
