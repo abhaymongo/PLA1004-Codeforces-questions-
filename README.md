@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 15 |
+| 39 | 15 |
 
 ---
 
@@ -21,12 +21,12 @@
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (27)
+- [implementation](#implementation) (28)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (7)
 - [strings](#strings) (11)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -131,6 +131,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/977/B%20-%20Two-gram/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 
 ### math
 
@@ -182,6 +183,7 @@
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 
 ---
 
