@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 15 |
+| 43 | 15 |
 
 ---
 
@@ -20,13 +20,13 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (10)
-- [implementation](#implementation) (31)
+- [greedy](#greedy) (11)
+- [implementation](#implementation) (32)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (7)
 - [strings](#strings) (13)
-- [two pointers](#two-pointers) (6)
+- [two pointers](#two-pointers) (7)
 
 ---
 
@@ -100,6 +100,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
+| 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1873/D%20-%201D%20Eraser/solution.java) |
 
 ### implementation
 
@@ -136,6 +137,7 @@
 | 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
+| 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1873/D%20-%201D%20Eraser/solution.java) |
 
 ### math
 
@@ -191,6 +193,7 @@
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
+| 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1873/D%20-%201D%20Eraser/solution.java) |
 
 ---
 
