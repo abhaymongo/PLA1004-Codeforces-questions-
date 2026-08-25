@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 15 |
+| 42 | 15 |
 
 ---
 
@@ -21,12 +21,12 @@
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (30)
+- [implementation](#implementation) (31)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (7)
-- [strings](#strings) (12)
-- [two pointers](#two-pointers) (5)
+- [strings](#strings) (13)
+- [two pointers](#two-pointers) (6)
 
 ---
 
@@ -135,6 +135,7 @@
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
 | 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
+| 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
 ### math
 
@@ -178,6 +179,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/977/B%20-%20Two-gram/solution.java) |
 | 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.java) |
+| 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
 ### two pointers
 
@@ -188,6 +190,7 @@
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
+| 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
 ---
 
