@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 15 |
+| 46 | 15 |
 
 ---
 
@@ -20,13 +20,13 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (13)
+- [greedy](#greedy) (14)
 - [implementation](#implementation) (32)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (9)
 - [strings](#strings) (13)
-- [two pointers](#two-pointers) (9)
+- [two pointers](#two-pointers) (10)
 
 ---
 
@@ -103,6 +103,7 @@
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1851/B%20-%20Parity%20Sort/solution.java) |
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1873/D%20-%201D%20Eraser/solution.java) |
+| 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1968/B%20-%20Prefiquence/solution.java) |
 
 ### implementation
 
@@ -200,6 +201,7 @@
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1851/B%20-%20Parity%20Sort/solution.java) |
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1873/D%20-%201D%20Eraser/solution.java) |
+| 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1968/B%20-%20Prefiquence/solution.java) |
 
 ---
 
