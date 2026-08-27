@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 15 |
+| 47 | 15 |
 
 ---
 
@@ -15,18 +15,18 @@
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (14)
+- [greedy](#greedy) (15)
 - [implementation](#implementation) (32)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (9)
 - [strings](#strings) (13)
-- [two pointers](#two-pointers) (10)
+- [two pointers](#two-pointers) (11)
 
 ---
 
@@ -60,6 +60,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
+| 1972A | [Contest Proposal](https://codeforces.com/contest/1972/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1972/A%20-%20Contest%20Proposal/solution.java) |
 
 ### constructive algorithms
 
@@ -104,6 +105,7 @@
 | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1851/B%20-%20Parity%20Sort/solution.java) |
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1873/D%20-%201D%20Eraser/solution.java) |
 | 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1968/B%20-%20Prefiquence/solution.java) |
+| 1972A | [Contest Proposal](https://codeforces.com/contest/1972/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1972/A%20-%20Contest%20Proposal/solution.java) |
 
 ### implementation
 
@@ -202,6 +204,7 @@
 | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1851/B%20-%20Parity%20Sort/solution.java) |
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1873/D%20-%201D%20Eraser/solution.java) |
 | 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1968/B%20-%20Prefiquence/solution.java) |
+| 1972A | [Contest Proposal](https://codeforces.com/contest/1972/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1972/A%20-%20Contest%20Proposal/solution.java) |
 
 ---
 
