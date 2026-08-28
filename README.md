@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 15 |
+| 48 | 15 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (9)
 - [strings](#strings) (13)
-- [two pointers](#two-pointers) (11)
+- [two pointers](#two-pointers) (12)
 
 ---
 
@@ -205,6 +205,7 @@
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1873/D%20-%201D%20Eraser/solution.java) |
 | 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1968/B%20-%20Prefiquence/solution.java) |
 | 1972A | [Contest Proposal](https://codeforces.com/contest/1972/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1972/A%20-%20Contest%20Proposal/solution.java) |
+| 2000B | [Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/2000/B%20-%20Seating%20in%20a%20Bus/solution.java) |
 
 ---
 
