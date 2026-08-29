@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 15 |
+| 51 | 15 |
 
 ---
 
@@ -14,14 +14,14 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (2)
+- [binary search](#binary-search) (3)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (3)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (34)
+- [implementation](#implementation) (35)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (11)
@@ -48,6 +48,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/230/B%20-%20T-primes/solution.java) |
+| 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 
 ### brute force
@@ -137,6 +138,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.java) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.java) |
+| 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/977/B%20-%20Two-gram/solution.java) |
