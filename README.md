@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 56 | 17 |
+| 57 | 17 |
 
 ---
 
@@ -20,13 +20,13 @@
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (4)
-- [games](#games) (1)
+- [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (17)
+- [greedy](#greedy) (18)
 - [implementation](#implementation) (37)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (11)
+- [sortings](#sortings) (12)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (14)
 
@@ -101,6 +101,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.java) |
+| 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.java) |
 
 ### graph matchings
 
@@ -123,6 +124,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
+| 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.java) |
 | 1798A | [Showstopper](https://codeforces.com/contest/1798/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1798/A%20-%20Showstopper/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1851/B%20-%20Parity%20Sort/solution.java) |
@@ -198,6 +200,7 @@
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
+| 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.java) |
 | 1798A | [Showstopper](https://codeforces.com/contest/1798/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1798/A%20-%20Showstopper/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1851/B%20-%20Parity%20Sort/solution.java) |
