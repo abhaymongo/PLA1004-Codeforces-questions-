@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 17 |
+| 56 | 17 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (4)
+- [binary search](#binary-search) (5)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (4)
 - [games](#games) (1)
@@ -28,7 +28,7 @@
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (11)
 - [strings](#strings) (13)
-- [two pointers](#two-pointers) (13)
+- [two pointers](#two-pointers) (14)
 
 ---
 
@@ -53,6 +53,7 @@
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
+| 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.java) |
 
 ### brute force
 
@@ -78,6 +79,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
+| 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.java) |
 
 ### dfs and similar
 
@@ -225,6 +227,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
+| 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
