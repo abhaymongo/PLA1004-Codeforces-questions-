@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 57 | 17 |
+| 58 | 17 |
 
 ---
 
@@ -14,16 +14,16 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (5)
+- [binary search](#binary-search) (6)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (18)
-- [implementation](#implementation) (37)
+- [implementation](#implementation) (38)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (12)
@@ -52,6 +52,7 @@
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
+| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.java) |
 
@@ -95,6 +96,7 @@
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
 ### games
 
@@ -162,6 +164,7 @@
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.java) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/977/B%20-%20Two-gram/solution.java) |
