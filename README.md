@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 62 | 17 |
+| 63 | 17 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (7)
+- [binary search](#binary-search) (8)
 - [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
@@ -22,11 +22,11 @@
 - [dp](#dp) (7)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (20)
 - [implementation](#implementation) (39)
-- [math](#math) (3)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (13)
+- [sortings](#sortings) (14)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (14)
 
@@ -56,6 +56,7 @@
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.java) |
+| 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.java) |
 
 ### brute force
 
@@ -131,6 +132,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 492C | [Vanya and Exams](https://codeforces.com/contest/492/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/492/C%20-%20Vanya%20and%20Exams/solution.java) |
+| 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.java) |
 | 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.java) |
 | 1798A | [Showstopper](https://codeforces.com/contest/1798/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1798/A%20-%20Showstopper/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
@@ -190,6 +192,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/230/B%20-%20T-primes/solution.java) |
+| 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.java) |
 
 ### number theory
 
@@ -210,6 +213,7 @@
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 492C | [Vanya and Exams](https://codeforces.com/contest/492/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/492/C%20-%20Vanya%20and%20Exams/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
+| 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.java) |
 | 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.java) |
 | 1798A | [Showstopper](https://codeforces.com/contest/1798/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1798/A%20-%20Showstopper/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
