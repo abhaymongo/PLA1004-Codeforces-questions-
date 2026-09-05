@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 17 |
+| 64 | 17 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (8)
+- [binary search](#binary-search) (9)
 - [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
@@ -57,6 +57,7 @@
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.java) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.java) |
+| 1613C | [Poisoned Dagger](https://codeforces.com/contest/1613/problem/C) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1613/C%20-%20Poisoned%20Dagger/solution.java) |
 
 ### brute force
 
