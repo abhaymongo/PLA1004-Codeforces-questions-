@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 66 | 17 |
+| 67 | 17 |
 
 ---
 
@@ -15,19 +15,19 @@
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (11)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (7)
+- [dp](#dp) (8)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (21)
-- [implementation](#implementation) (39)
+- [greedy](#greedy) (22)
+- [implementation](#implementation) (40)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (14)
-- [strings](#strings) (13)
+- [strings](#strings) (14)
 - [two pointers](#two-pointers) (14)
 
 ---
@@ -70,6 +70,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/363/B%20-%20Fence/solution.java) |
+| 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/550/A%20-%20Two%20Substrings/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 670D1 | [Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/670/D1%20-%20Magic%20Powder%20-%201/solution.java) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
@@ -103,6 +104,7 @@
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/455/A%20-%20Boredom/solution.java) |
 | 474D | [Flowers](https://codeforces.com/contest/474/problem/D) | 1700 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/474/D%20-%20Flowers/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
+| 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/550/A%20-%20Two%20Substrings/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
@@ -135,6 +137,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 492C | [Vanya and Exams](https://codeforces.com/contest/492/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/492/C%20-%20Vanya%20and%20Exams/solution.java) |
+| 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/550/A%20-%20Two%20Substrings/solution.java) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.java) |
 | 1366A | [Shovels and Swords](https://codeforces.com/contest/1366/problem/A) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1366/A%20-%20Shovels%20and%20Swords/solution.java) |
 | 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.java) |
@@ -174,6 +177,7 @@
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.java) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.java) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/474/B%20-%20Worms/solution.java) |
+| 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/550/A%20-%20Two%20Substrings/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 670D1 | [Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/670/D1%20-%20Magic%20Powder%20-%201/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
@@ -239,6 +243,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/550/A%20-%20Two%20Substrings/solution.java) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/977/B%20-%20Two-gram/solution.java) |
 | 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
