@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 17 |
+| 69 | 17 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (22)
-- [implementation](#implementation) (41)
+- [implementation](#implementation) (42)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (14)
@@ -161,6 +161,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/116/A%20-%20Tram/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
+| 119A | [Epic Game](https://codeforces.com/contest/119/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/119/A%20-%20Epic%20Game/solution.java) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/136/A%20-%20Presents/solution.java) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/149/A%20-%20Business%20trip/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
