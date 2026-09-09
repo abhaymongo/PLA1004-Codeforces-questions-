@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 17 |
+| 72 | 18 |
 
 ---
 
@@ -19,9 +19,10 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (23)
 - [implementation](#implementation) (44)
 - [math](#math) (8)
@@ -107,6 +108,7 @@
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/550/A%20-%20Two%20Substrings/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 1472C | [Long Jumps](https://codeforces.com/contest/1472/problem/C) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1472/C%20-%20Long%20Jumps/solution.java) |
 
 ### games
 
@@ -120,6 +122,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1472C | [Long Jumps](https://codeforces.com/contest/1472/problem/C) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1472/C%20-%20Long%20Jumps/solution.java) |
 
 ### greedy
 
