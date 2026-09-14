@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 74 | 18 |
+| 75 | 18 |
 
 ---
 
@@ -14,16 +14,16 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (12)
+- [binary search](#binary-search) (13)
 - [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (4)
+- [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (9)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (24)
+- [greedy](#greedy) (25)
 - [implementation](#implementation) (45)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
@@ -51,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/91/B%20-%20Queue/solution.java) |
+| 140C | [New Year Snowmen](https://codeforces.com/contest/140/problem/C) | 1800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/140/C%20-%20New%20Year%20Snowmen/solution.java) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
@@ -89,6 +90,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 91B | [Queue](https://codeforces.com/contest/91/problem/B) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/91/B%20-%20Queue/solution.java) |
+| 140C | [New Year Snowmen](https://codeforces.com/contest/140/problem/C) | 1800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/140/C%20-%20New%20Year%20Snowmen/solution.java) |
 | 343B | [Alternating Current](https://codeforces.com/contest/343/problem/B) | 1600 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/343/B%20-%20Alternating%20Current/solution.java) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.java) |
@@ -137,6 +139,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 140C | [New Year Snowmen](https://codeforces.com/contest/140/problem/C) | 1800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/140/C%20-%20New%20Year%20Snowmen/solution.java) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/149/A%20-%20Business%20trip/solution.java) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/160/A%20-%20Twins/solution.java) |
