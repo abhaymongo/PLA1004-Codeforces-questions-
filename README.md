@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 76 | 18 |
+| 77 | 18 |
 
 ---
 
@@ -23,9 +23,9 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (25)
+- [greedy](#greedy) (26)
 - [implementation](#implementation) (46)
-- [math](#math) (8)
+- [math](#math) (9)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (14)
 - [strings](#strings) (15)
@@ -158,6 +158,7 @@
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/550/A%20-%20Two%20Substrings/solution.java) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.java) |
 | 1366A | [Shovels and Swords](https://codeforces.com/contest/1366/problem/A) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1366/A%20-%20Shovels%20and%20Swords/solution.java) |
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1367/B%20-%20Even%20Array/solution.java) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.java) |
 | 1398B | [Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1398/B%20-%20Substring%20Removal%20Game/solution.java) |
 | 1798A | [Showstopper](https://codeforces.com/contest/1798/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1798/A%20-%20Showstopper/solution.java) |
@@ -229,6 +230,7 @@
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.java) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
 | 1366A | [Shovels and Swords](https://codeforces.com/contest/1366/problem/A) | 1100 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1366/A%20-%20Shovels%20and%20Swords/solution.java) |
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1367/B%20-%20Even%20Array/solution.java) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Java 8](https://github.com/abhaymongo/PLA1004-Codeforces-questions-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.java) |
 
 ### number theory
